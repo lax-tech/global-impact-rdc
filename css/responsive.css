@@ -302,6 +302,10 @@
 /*--- tablet view ---*/
 
 @media screen and (max-width: 980px) {
+    .bottom-bar{
+        display: block;
+    }
+    
     .gap {
         padding: 40px 0;
     }
