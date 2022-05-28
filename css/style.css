@@ -98,6 +98,19 @@ img {
     max-width: 100%;
 }
 
+.loading{
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .bottom-bar{
     position: fixed;
     z-index: 1000;

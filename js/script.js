@@ -1,3 +1,9 @@
+window.addEventListener('load', function(){
+	console.log('dsfklsdkfm-----------------')
+	document.querySelector('.loading').style.display = 'none'
+})
+
+
 jQuery(document).ready(function($) {
 	
 	"use strict";
