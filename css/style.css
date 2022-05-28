@@ -129,10 +129,10 @@ img {
     margin-bottom: 0 !important;
     display: flex;
     width: 100%;
-    height: 60px;
+    height: 57px;
     align-items: center;
     justify-content: space-around;
-    font-size: 24px;
+    font-size: 21px;
 }
 
 .bottom-bar .container li{
@@ -140,10 +140,13 @@ img {
     height: 47px;
     line-height: 50px;
     border-radius: 4px;
+    color: #232529a8;
     text-align: center;
 }
 
 .bottom-bar .container li.active{
+    font-size: 24px;
+    color: #0a98dc;
     background: #0076b517;
 } 
 
