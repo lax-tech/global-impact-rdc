@@ -245,7 +245,7 @@ section {
 }
 
 .pattern:before {
-    background: #088dcd url("../images/dot-pattern.png") repeat scroll 0 0;
+    background: #005a87 url("../images/dot-pattern.png") repeat scroll 0 0;
     opacity: 0.45;
 }
 
@@ -254,7 +254,7 @@ section {
 }
 
 .bluesh:before {
-    background: #088dcd;
+    background: #005a87;
 }
 
 .exthigh-opacity:before {
@@ -847,7 +847,7 @@ header.sticky {
 }
 
 .timeline-info .admin-name > h5 {
-    color: #088dcd;
+    color: #005a87;
     display: inline-block;
     font-size: 24px;
     font-weight: 500;
@@ -2887,7 +2887,7 @@ li.google {
 }
 
 .g-map::before {
-    background: #088dcd none repeat scroll 0 0;
+    background: #005a87 none repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -2905,7 +2905,7 @@ li.google {
 }
 
 .map-meta {
-    background: #088dcd none repeat scroll 0 0;
+    background: #005a87 none repeat scroll 0 0;
     color: #fff;
     left: 10%;
     padding: 20px;
@@ -4563,7 +4563,7 @@ canvas {
 }
 
 .mh-head {
-    background: #4bb5ef;
+    background: #007cba;
     color: #fff;
     height: auto;
 }
@@ -6704,7 +6704,7 @@ a.reply {
 }
 
 .menu-container {
-    background-color: #088dcd;
+    background-color: #005a87;
     -webkit-border-radius: 100%;
     -moz-border-radius: 100%;
     -ms-border-radius: 100%;
